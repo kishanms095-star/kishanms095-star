@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello Iam Kishan,
 - **🔭 I'm currently working on:** ResearchLens – a comparative analysis of research papers using an evidence-based framework, along with software development and academic projects.<br>- **👯 I'm looking to collaborate on:** Open-source projects, innovative applications, and team projects related to software development, AI, and research.<br>- **🤝 I'm looking for help with:** Improving my coding skills, building real-world applications, and learning best practices in software development and deployment.<br>- **🌱 I'm currently learning:** Python, Java, Data Structures and Algorithms, DevOps, CI/CD, Jenkins, GitHub Actions, and database management.<br>- **💬 Ask me about:** Computer Science, software development fundamentals, research paper analysis, database concepts, and deployment automation.<br>- **⚡ Fun fact:** I'm passionate about exploring new technologies and turning ideas into practical solutions while continuously learning and improving my skills.
 
 
